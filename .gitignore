@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+*.dSYM/
+*.hdf5
+.DS_Store
